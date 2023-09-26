@@ -1,0 +1,10 @@
+GPA,Credit_Completion,SAT,Course,Course_Similarity,Career,Student_Interest,Student_Exposure,Family_Contribution,PersonalityTraits_Scores,Accessibility,Financial_Status,Calculated_Success_Rate,Success_Rate
+3,26,1020,Computer Science,20,Software Engineer,90,Project,Yes,80,25,Yes,65.69886364,75.28
+2,22,400,Cybersecurity,6,Information Security Analyst,50,Paper,No,60,30,Yes,43.66666667,51.42
+2.7,20,500,Cybersecurity,9,Information Security Analyst,90,Project,Yes,90,35,Yes,58.57765152,66.7
+3,32,1000,Information Systems,15,Systems Analyst,90,Extra-classes,Yes,80,Online,No,64.92424242,70.8
+4,34,1500,Software Engineering,15,Software Developer,80,Conference,No,70,15,Yes,87.38825758,80.14
+1,15,300,Information Systems,30,Business Analyst,80,Paper,Yes,80,18,Yes,63.78219697,58.45
+3.8,30,1350,Network and Systems Administration,21,Network Administrator,90,Project,No,80,50,No,83.51231061,66.43
+1.7,21,800,Web Development,10,Front-end Developer,90,Conference,Yes,90,24,Yes,73.34090909,69.6
+1.5,10,1200,Data Science,90,Data Analyst,90,Extra-classes,Yes,70,22,Yes,0,68.51
